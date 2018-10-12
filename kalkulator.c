@@ -7,6 +7,7 @@ int main() {
     const int b = 7;
     printf("%i\n", a + b);
     printf("%i\n", a - b);
+    printf("%i\n", a * b);
 
     return 0;
 
